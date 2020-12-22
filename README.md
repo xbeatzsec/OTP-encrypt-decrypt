@@ -2,7 +2,7 @@
 
 
 Python script to encrypt and decrypt with One Time Pad algorithm
-# OTP-encrypt-decrypt
+
 --------------------------------
 
 I used this script for school use, where I explained the whole One time pad encryption / decryption algorithm, and then
