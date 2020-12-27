@@ -43,4 +43,4 @@ Something like this:
 
 If you have some issue or problem, feel free to contact me!
 
-Thank you for the attetion! :D
+Thank you for the attention! 😊
